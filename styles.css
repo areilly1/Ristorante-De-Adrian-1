@@ -1,0 +1,24 @@
+.wings {
+	font-family: 'Roboto', sans-serif;  
+    color: red;
+}
+
+.pasta {
+    font-family: 'Balsamiq Sans', cursive;
+    color: blue;
+}
+
+.pizza {
+	font-family: 'DM Mono', monospace;   
+    color: green;
+}
+
+.drinks {
+	font-family: 'Oswald', sans-serif;   
+    color: indigo;
+}
+
+.pics {
+	height: 200px;
+    width: 300px;
+}
